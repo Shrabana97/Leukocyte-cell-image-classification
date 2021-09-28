@@ -51,7 +51,7 @@ train_directory, validation_directory, test_directory
 learning_rate = 0.001
 epoch = 100
 batch_size = 8
-lambd = 0.00001
+lambd = 0
 
 # Characteristics folder
 char = 'result'
