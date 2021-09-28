@@ -1,0 +1,7 @@
+matplotlib==3.3.3
+tqdm==4.54.1
+mlxtend==0.18.0
+tensorflow==2.4.0
+opencv_python==4.5.1.48
+numpy==1.19.5
+scikit_learn==0.24.1
