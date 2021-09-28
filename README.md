@@ -4,9 +4,6 @@ The proposed model is trained on NVIDIA RTX 2060 GPU paired with a quad-core pro
 \
 \
 The research paper is going to publised soon. Once the paper is published, the link of the paper will be shown here.
-\
-\
-![Alt Text](images/compare.png)
 
 ## Dataset source : 
 * Acute Lymphoblastic Leukemia Image Database for Image Processing (ALL-IDB), Department of Computer Science, Università degli Studi di Milano, https://homes.di.unimi.it/scotti/all/
